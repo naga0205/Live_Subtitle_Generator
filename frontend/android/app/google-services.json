@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257781236147",
+    "project_id": "live-subtitles-5d360",
+    "storage_bucket": "live-subtitles-5d360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257781236147:android:659aeeebaea6556bf7cbc6",
+        "android_client_info": {
+          "package_name": "com.example.live_captions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257781236147-ihqcf9a6ubhj3l2t8emelq3disv9jk76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwxRYmqE1empq9fEtYJTQNs3GZmpUb9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257781236147-ihqcf9a6ubhj3l2t8emelq3disv9jk76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

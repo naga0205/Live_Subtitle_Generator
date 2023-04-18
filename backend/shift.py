@@ -1,0 +1,2 @@
+import shutil
+shutil.move('C:/Users/Dell/OneDrive/Desktop/Flutter Projects(Oct)/backend/video_subtitled.mp4', 'C:/Users/Dell/OneDrive/Desktop/Flutter Projects(Oct)/live_captions/assets/video_Subtitled.mp4')
